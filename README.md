@@ -44,4 +44,4 @@ Normalización de datos y tableros dinámicos en Looker Studio para toma de deci
 
 📧 carrerelautaro@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/lautaro-carrere)  
-🌐 [Portfolio](https://Laucha1312.github.io)
+🌐 [Portfolio](https://lautaro-carrere.vercel.app/)
