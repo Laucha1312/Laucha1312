@@ -1,5 +1,5 @@
 # Lautaro Luis Carrere
-**Lead Developer · Project Manager**  
+**Analista de sistemas · Lead Developer · Project Manager**  
 Paraná, Entre Ríos, Argentina · Disponible para trabajo remoto
 
 ---
