@@ -6,7 +6,7 @@ Paraná, Entre Ríos, Argentina · Disponible para trabajo remoto
 
 ### Lo que construyo
 
-Sistemas que funcionan en el mundo real —no en demos.
+Sistemas que funcionan en el mundo real.
 
 A los 22 años entregué en producción una plataforma de votación electrónica para organismos públicos de la Provincia de Entre Ríos, y lideré la evolución completa del sistema oficial de la Asociación Paranaense de Básquet. Trabajo como un PM con mentalidad de dev: tomo requerimientos en lenguaje de negocio, los convierto en arquitectura técnica y los entrego sin supervisión constante.
 
